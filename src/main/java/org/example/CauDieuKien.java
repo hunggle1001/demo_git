@@ -15,7 +15,7 @@ public class CauDieuKien {
                     System.out.println("điều kiện đúng");
                 }
 
-                //viết chương trihf kiểm tra xem hôm nay có phải là ngày đi học không?
+                //viết chương trình kiểm tra xem hôm nay có phải là ngày đi học không?
                 int day = 4;
                 if(day == 4 || day == 8){
                     System.out.println("Hôm nay đi học");
