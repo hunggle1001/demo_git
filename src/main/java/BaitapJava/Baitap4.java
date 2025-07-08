@@ -1,4 +1,4 @@
-package Motsao;
+package BaitapJava;
 
 import java.util.Scanner;
 

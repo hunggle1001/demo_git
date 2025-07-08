@@ -1,4 +1,4 @@
-package Motsao;
+package BaitapJava;
 import java.util.Scanner;
 public class Baitap5 {
     // Hàm lấy chữ cái đầu của mỗi từ

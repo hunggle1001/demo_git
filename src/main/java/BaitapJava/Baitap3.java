@@ -1,4 +1,4 @@
-package Motsao;
+package BaitapJava;
 import java.util.Scanner;
 public class Baitap3 {
     // Hàm tính tổng các số chẵn từ 0 đến n

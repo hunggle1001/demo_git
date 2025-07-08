@@ -1,6 +1,4 @@
-package Motsao;
-
-import java.util.Scanner;
+package BaitapJava;
 
 public class Baitap2 {
     public static int findSecondLargest(int[] arr) {
